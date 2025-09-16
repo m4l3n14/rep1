@@ -1,0 +1,55 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+#vich, #stor1, #stor2, #stor3, #ochist{
+    height: 20px;
+    border-radius: 20px;
+    padding: 10px;
+    box-shadow: 2px 2px rgba(0, 0, 0, 0.171) ;
+    border: 1px solid black;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.nazv{
+    background-color: rgb(18, 92, 220);
+
+}
+
+h3{
+    padding: 20px;
+    text-align: justify;
+    color: aliceblue;
+}
+
+.prek{
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+}
+
+.knopki{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+#vich, #ochist{
+    height: 40px;
+    margin: 5px;
+    width: 100px;
+    color: aliceblue;
+    background-color: rgb(18, 92, 220);
+}
+
+#ans{
+    margin: 10px;
+    text-align: justify;
+}
