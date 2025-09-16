@@ -38,3 +38,6 @@ function ochistka(){
 
 ochist.addEventListener('click', ochistka);
 vich.addEventListener('click', proverka)
+
+
+console.log('Прикол')
